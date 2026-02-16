@@ -283,47 +283,4 @@ Context-Aware Developer Agent/
 3. **Information Density** - Minimum token ile maksimum bilgi
 4. **Token Budget Management** - Maliyet kontrolü
 
-> 📚 **Referans**: [David Kimai - Context Engineering Principles](https://github.com/davidkimai/context-engineering)
 
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
-
-1. 🍴 Projeyi fork edin
-2. 🌿 Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. 💾 Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. 📤 Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. 🎉 Pull Request açın
-
-### Geliştirme Fikirleri
-- [ ] Multi-language desteği (JavaScript, Java, Go vb.)
-- [ ] Vectorstore entegrasyonu (Pinecone/Chroma)
-- [ ] Semantic search ile gelişmiş bağlam seçimi
-- [ ] Proaktif kod önerileri
-- [ ] Export/Import bağlam özelliği
-
----
-
-## 📜 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
----
-
-## 📧 İletişim
-
-**Proje Sahibi**: [GitHub Profiliniz]
-
-⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
-
----
-
-<div align="center">
-
-**Made with ❤️ and AI**
-
-[⬆ Yukarı Çık](#-context-aware-developer-agent)
-
-</div>
