@@ -589,48 +589,8 @@ Katkılarınızı memnuniyetle karşılıyoruz!
 - [ChromaDB Documentation](https://docs.trychroma.com/)
 - [Vector Database Comparison](https://www.pinecone.io/learn/vector-database/)
 
----
 
-## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
----
-
-## 👨‍💻 Geliştirici
 
 **Oğulcan**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Teşekkürler
-
-- [OpenAI](https://openai.com/) - GPT-4 ve Embeddings API
-- [ChromaDB](https://www.trychroma.com/) - Vector Database
-- [David Kimai](https://github.com/davidkimai) - Context Engineering eğitimi
-- [FastAPI](https://fastapi.tiangolo.com/) - Modern web framework
-- [Andrej Karpathy](https://twitter.com/karpathy) - Context Engineering konsepti
-
----
-
-## 📞 İletişim & Destek
-
-Sorularınız veya önerileriniz için:
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/context-aware-agent/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/context-aware-agent/discussions)
-- 📧 **Email**: your.email@example.com
-
----
-
-<div align="center">
-
-**⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
-
-Made with ❤️ and 🤖 by Context Engineers
-
-</div>
