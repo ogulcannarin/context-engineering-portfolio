@@ -514,50 +514,6 @@ SYSTEM_PROMPT = """
 Examples:
 TOOL:weather:Istanbul
 """
-```
 
-✅ **İşte bu kadar!** Yeni tool hazır.
-
----
-
-## 🚧 Geliştirme Roadmap
-
-### Yakın Gelecek (v1.1)
-
-- [ ] Multiple memory types (short-term, long-term)
-- [ ] Conversation summarization
-- [ ] Memory pruning/cleanup
-- [ ] Tool error handling improvements
-- [ ] Logging system
-
-### Orta Vade (v1.2)
-
-- [ ] Web Search tool
-- [ ] Wikipedia integration
-- [ ] File upload/analysis
-- [ ] Multi-language support
-- [ ] Streamlit UI
-
-### Uzun Vade (v2.0)
-
-- [ ] Multi-agent collaboration
-- [ ] Advanced RAG techniques (HyDE, Query Rewriting)
-- [ ] Custom embedding models
-- [ ] GraphRAG implementation
-- [ ] Production deployment guide
-
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı memnuniyetle karşılıyoruz!
-
-### Nasıl Katkıda Bulunulur?
-
-1. **Fork** edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. **Pull Request** açın
 
 
