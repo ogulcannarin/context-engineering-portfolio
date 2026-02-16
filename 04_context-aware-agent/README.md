@@ -560,37 +560,4 @@ Katkılarınızı memnuniyetle karşılıyoruz!
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. **Pull Request** açın
 
-### Katkı Alanları
-
-- 🐛 Bug fixes
-- ✨ Yeni özellikler
-- 📝 Dokümantasyon iyileştirmeleri
-- 🧪 Test coverage artırma
-- 🎨 UI/UX geliştirmeleri
-- 🌍 Çeviriler
-
----
-
-## 📖 Referanslar & Kaynaklar
-
-### Context Engineering
-
-- [David Kimai - Context Engineering Course](https://github.com/davidkimai/Context-Engineering)
-- [Andrej Karpathy - Context Engineering](https://twitter.com/karpathy)
-- [LangChain Documentation](https://python.langchain.com/)
-
-### RAG
-
-- [RAG Papers](https://arxiv.org/abs/2005.11401)
-- [Advanced RAG Techniques](https://www.pinecone.io/learn/retrieval-augmented-generation/)
-
-### Vector Databases
-
-- [ChromaDB Documentation](https://docs.trychroma.com/)
-- [Vector Database Comparison](https://www.pinecone.io/learn/vector-database/)
-
-
-
-
-**Oğulcan**
 
